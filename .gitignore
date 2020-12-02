@@ -1,4 +1,4 @@
-*.aws
+*.credentials
 *.pem
 *.tfstate
 terraform.tf*
