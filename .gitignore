@@ -1,3 +1,4 @@
+*.aws
 *.pem
 *.tfstate
 terraform.tf*
