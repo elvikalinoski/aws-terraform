@@ -4,3 +4,4 @@
 terraform.tf*
 *.terraform
 hosts
+.aws
